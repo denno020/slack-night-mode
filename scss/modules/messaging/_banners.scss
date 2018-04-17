@@ -2,7 +2,7 @@
   .c-message_list.c-virtual_list--scrollbar > .c-scrollbar__hider {
     background: $color-base;
 
-    &:before {
+    &::before {
       background: $color-base;
       border-bottom: 1px solid $color-base;
     }
